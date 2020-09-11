@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: （XU）博客
+subtitle: 共同学习共同进步
 ---
 
 <div>
