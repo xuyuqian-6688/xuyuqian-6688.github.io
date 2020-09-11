@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 个人简介
-subtitle: 关于我~~~
+title: 欢迎各路大神留言
+subtitle: 
 ---
 <div style="width: 500px; height: 400px;margin:0 auto;">
 	<h1>

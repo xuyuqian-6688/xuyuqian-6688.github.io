@@ -1,6 +1,6 @@
 ---
 layout: page
-title: （XU）博客
+title: "wode博客"
 subtitle: 共同学习共同进步
 ---
 
