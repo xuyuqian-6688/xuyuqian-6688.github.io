@@ -55,15 +55,15 @@
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden; }
-
-  .navigation {
-    width: 302px;
+    width: 100%;
     height: auto;
     background-image: url("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=231123393,2615735634&fm=26&gp=0.jpg");
     background-size: 100% 100%;
     z-index: -1;
-    opacity:0.2; 
+    opacity:0.5; 
+    overflow: hidden; }
+
+  .navigation {
     float: left; }
 
   .logo {
