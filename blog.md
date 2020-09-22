@@ -17,33 +17,6 @@ subtitle: 共同学习共同进步
 </strong>
 </h4>
 <ul class="list-posts">
-<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
-<script type="text/javascript">
-
-    $(function(){	
-
-        $(window).scroll(function() {		
-
-            if($(window).scrollTop() >= 100){
-
-                $('.actGotop').fadeIn(300); 
-
-            }else{    
-
-                $('.actGotop').fadeOut(300);    
-
-            }  
-
-        });
-
-        $('.actGotop').click(function(){
-
-        $('html,body').animate({scrollTop: '0px'}, 800);});	
-
-    });
-
-</script>
-<div class="actGotop"><a href="javascript:;" title="返回顶部"></a></div>
 {% for post in category.items %}
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
