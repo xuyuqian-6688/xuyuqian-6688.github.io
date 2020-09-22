@@ -773,32 +773,32 @@
 
 
 .photo-cube__panel:nth-of-type(1) {
-  background-image: url("/assets/img/a1.png");
+  background-image: url(/assets/img/a1.png);
   background-size: cover;
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(2) {
-  background-image: url("/assets/img/26.png");
+  background-image: url(/assets/img/26.png);
   background-size: cover;
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(3) {
-  background-image: url("/assets/img/a3.png");
+  background-image: url(/assets/img/a2.png);
   background-size: cover;
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(4) {
-  background-image: url("/assets/img/28.png");
+  background-image: url(/assets/img/28.png);
   background-size: cover;
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(5) {
-  background-image: url("/assets/img/a5.png");
+  background-image: url(/assets/img/a3.png);
   background-size: cover;
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(6) {
-  background-image: url("/assets/img/a6.png");
+  background-image: url(/assets/img/a4.png);
   background-size: cover;
   background-position: center;
 }
