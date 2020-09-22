@@ -548,7 +548,7 @@
   margin-left: -300px;
   margin-top: -300px;
   position: absolute;
-  top: 80%;
+  top: 60%;
   transform: scale(0.25);
   transition: all 0.5s ease 0s;
   width: 600px;
@@ -773,7 +773,7 @@
 
 
 .photo-cube__panel:nth-of-type(1) {
-  background-image: url(/assets/img/a1.png);
+  background-image: url(/assets/img/1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -783,7 +783,7 @@
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(3) {
-  background-image: url(/assets/img/a2.png);
+  background-image: url(/assets/img/2.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -793,7 +793,7 @@
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(5) {
-  background-image: url(/assets/img/a3.png);
+  background-image: url(/assets/img/12.jpg);
   background-size: cover;
   background-position: center;
 }
