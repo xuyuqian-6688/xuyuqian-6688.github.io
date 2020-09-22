@@ -544,11 +544,11 @@
 }
 .content {
   height: 600px;
-  left: 50%;
+  left: 15%;
   margin-left: -300px;
   margin-top: -300px;
   position: absolute;
-  top: 50%;
+  top: 80%;
   transform: scale(0.25);
   transition: all 0.5s ease 0s;
   width: 600px;
@@ -778,7 +778,7 @@
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(2) {
-  background-image: url(/assets/img/26.png);
+  background-image: url(/assets/img/26.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -788,7 +788,7 @@
   background-position: center;
 }
 .photo-cube__panel:nth-of-type(4) {
-  background-image: url(/assets/img/28.png);
+  background-image: url(/assets/img/28.jpg);
   background-size: cover;
   background-position: center;
 }
