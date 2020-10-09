@@ -148,9 +148,11 @@
 /* =Post page *//*************************************************************/
   .about {
     margin-top: 80px;
-    color: #828282;
+    color: #333333;
     text-align: center;
-    line-height: 24px; }
+    line-height: 24px; 
+    background-color: gray;
+  }
 
   .about__devider {
     font-size: 100%;
