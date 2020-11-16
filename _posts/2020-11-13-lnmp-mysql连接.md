@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: "LNMP环境搭建"
+title: "LNMP环境搭建mysql连接问题"
 
 subtitle: "运维小菜鸟"
 
